@@ -19,3 +19,12 @@ Configuration over coding is the motto.
 ### Documentation and everything else
 
 [inaxiumjs.com](https://inaxiumjs.com)
+
+
+### Source could be found under:
+
+
+[inaxium-framework](https://github.com/inaxium/inaxiumjs-framework)
+
+
+### Current Vesrion is 2.1
