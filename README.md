@@ -27,4 +27,4 @@ Configuration over coding is the motto.
 [inaxium-framework](https://github.com/inaxium/inaxiumjs-framework)
 
 
-### Current Vesrion is 2.1
+### Current Version 2.1
